@@ -16,12 +16,6 @@ This project implements a modern heart rate monitor using a webcam and Eulerian 
 
 ---
 
-## Demo
-
-https://user-images.githubusercontent.com/demo-link.gif *(Insert a short screen recording here)*
-
----
-
 ## Requirements
 
 Install the required Python packages:
